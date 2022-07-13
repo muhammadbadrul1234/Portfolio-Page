@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Muhammad Badrul',
   siteDescription:
     'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
@@ -10,29 +10,33 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Chandrika Deb',
   location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
+  email: 'badrulalomtawsyat@ieee.org',
   github: 'https://github.com/chandrikadeb7',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/muhammadbadrul1234',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/muhammadbadrul/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/muhammad__badrul_/',
+    },
+    {
+      name: 'AppStore',
+      url: 'https://www.facebook.com/muhammadbadrul1234/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/',
+    },
+    {
+      name: 'Codepen',
+      url: 'https://codeforces.com/profile/Hellobadrul',
     },
   ],
 

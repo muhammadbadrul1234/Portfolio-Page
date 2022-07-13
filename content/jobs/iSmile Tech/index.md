@@ -1,11 +1,12 @@
 ---
 date: '2020-07-15'
-title: 'Technical Writer'
-company: 'iSmile Tech'
-range: 'July 2020 - August 2020'
+title: 'Senior Teacher(Mathematics & Science)'
+company: 'Al Huda Ideal Academy'
+range: 'December 2018 - June 2019'
 url: 'https://www.ismiletechnologies.com/'
 ---
-
-- Drafted all the website content and promotional templates on HubSpot for the startup.
-- Reviewed the tech blogs and helped the Sales & Marketing Team.
-- View [CERTIFICATE](https://drive.google.com/file/d/1xc4SHoXSFWmLQfwBeYq7WwB5EjXsqMV9/view?usp=sharing) and [PERFORMANCE REVIEW REPORT](https://drive.google.com/file/d/1FVNB7SLHLwWB_QOSZFxIiSdy8O6Xbj2w/view?usp=sharing)
+- In the absence from school of the Headteacher to assume responsibility for the
+  discharge of the functions of the Headteacher.
+- Assist and liaise closely with the Headteacher and SLT in managing the school.
+- Take an active lead in curriculum planning, classroom organisation and staff
+  motivation.

@@ -1,12 +1,9 @@
 ---
-title: 'Hello World! My name is'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+title: 'Hello There! My name is'
+name: 'Muhammad Badrul'
+subtitle: 'I love making new things!'
 buttonText: 'Contact Me'
 ---
+<div style="text-align: justify">
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
-
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
-
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+I'm a Bangladesh based software Engineer and a Competitive Programmer with a goal-driven creative mindset and passion for learning and innovating. Because I don't know everything , but I'll answer anyway.

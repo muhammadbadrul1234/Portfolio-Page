@@ -1,15 +1,17 @@
 ---
 date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+title: 'Freelance Software Engineer & Developer'
+company: 'Fiverr'
+range: 'July 2022 - Present'
+url: 'https://www.fiverr.com/badrulalom?up_rollout=true'
 ---
-
-- Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).
-
-- Submitted tech blogs on various popular topics for American Technology Consulting in 2500 words with a rating of 4.5/5.0.
-
-- Submitted a White Paper for Nous Infosystems in 1500 words with a rating of 5.0/5.0.
-
-- View all my submitted articles and blogs [here](https://drive.google.com/drive/folders/1e8rnyb-r07s6Ss8QInvjiLU4rhJAYTCZ?usp=sharing).
+- Implementing an API into the project.
+- Implement a specific feature for the program.
+- Optimizing code and Fixing bugs in the project.
+- Parsing different types of files and integrate them with the program.
+- Implement OOP concepts.
+- Clean code for the project.
+- Software development.
+- Bug fixing and Unit-testing.
+- Object Oriented/Asynchronous/Socket programming.
+- Multithreading/Algorithms/Data structures.

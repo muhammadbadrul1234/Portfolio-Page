@@ -23,7 +23,7 @@ const Head = ({ metadata }) => (
   <Helmet>
     <html lang="en" prefix="og: http://ogp.me/ns#" />
     <title itemProp="name" lang="en">
-      {metadata.title}
+      Muhammad Badrul
     </title>
     <link rel="shortcut icon" href={favicon} />
     <link rel="canonical" href="https://chandrikadeb7.github.io" />
